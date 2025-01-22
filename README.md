@@ -8,7 +8,7 @@ An R package for hardware-accelerated rerandomization and exact randomization te
 
 ## Features
 
-- 🚀 GPU/XLA-accelerated randomization generation via JAX
+- 🚀 GPU/XLA-accelerated randomization generation 
 - 🔢 Supports both exact enumeration and Monte Carlo sampling
 - 📉 Built-in balance metrics (Hotelling's T²) and custom threshold functions
 - 📈 Randomization-based inference with fiducial intervals
