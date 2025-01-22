@@ -27,4 +27,4 @@ build_backend(conda_env = "fastrerandomize")
 
 ## About
 
-Package by [Rebecca Goldstein}(https://rebeccasgoldstein.com/), [Connor Jerzak](https://ConnorJerzak.com), [Aniket Kamat](https://github.com/aniketkamat), and [Fucheng Warren Zhu](https://github.com/WarrenZhu050413)   
+Package by [Rebecca Goldstein](https://rebeccasgoldstein.com/), [Connor Jerzak](https://ConnorJerzak.com), [Aniket Kamat](https://github.com/aniketkamat), and [Fucheng Warren Zhu](https://github.com/WarrenZhu050413)   
