@@ -17,8 +17,8 @@ An R package for hardware-accelerated rerandomization and exact randomization te
 ## Installation
 
 ```r
-# Install from GitHub
-devtools::install_github("cjerzak/fastrerandomize-software/fastrerandomize")
+# Install from CRAN
+install.packages("fastrerandomize")
 
 # Build Python backend (requires conda)
 library(fastrerandomize)
